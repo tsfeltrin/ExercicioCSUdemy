@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Construtores_Encapsulamento_Sobrecarga_EXERCICIO
+build_property.ProjectDir = C:\Users\tsfel\source\repos\C#\Construtores Encapsulamento Sobrecarga EXERCICIO\Construtores Encapsulamento Sobrecarga EXERCICIO\
